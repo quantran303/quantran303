@@ -43,7 +43,7 @@
     </pattern>
 
     <style>
-      .mono { font-family: ui-monospace, 'SFMono-Regular', Menlo, Monaco, Consolas, monospace; }
+      .mono { font-family: ui-monospace, 'SFMono-Regular', Menlo, Monaco, Consolas, 'Courier New', monospace; }
       .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif; }
       .pill-light { rx: 6px; ry: 6px; fill: #f1f5f9; stroke: #cbd5e1; stroke-width: 1; }
       .pill-txt-light { font-size: 11px; fill: #475569; font-weight: 600; }
@@ -95,26 +95,26 @@
     <g transform="translate(25, 56)">
       <rect width="370" height="276" rx="12" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
 
-      <!-- ASCII Character Matrix (Buddha) -->
-      <g fill="#4338ca" class="mono" font-size="8" letter-spacing="0.5" opacity="0.95" xml:space="preserve">
-        <text x="14" y="20">//                  _oo0oo_</text>
-        <text x="14" y="34">//                 o8888888o</text>
-        <text x="14" y="48">//                 88" . "88</text>
-        <text x="14" y="62">//                 (| -_- |)</text>
-        <text x="14" y="76">//                 0\  =  /0</text>
-        <text x="14" y="90">//               ___/`---'\___</text>
-        <text x="14" y="104">//             .' \\|     |// '.</text>
-        <text x="14" y="118">//            / \\|||  :  |||// \</text>
-        <text x="14" y="132">//           / _||||| -:- |||||- \</text>
-        <text x="14" y="146">//          |   | \\\  -  /// |   |</text>
-        <text x="14" y="160">//          | \_|  ''\---/''  |_/ |</text>
-        <text x="14" y="174">//          \  .-\__  '-'  ___/-. /</text>
-        <text x="14" y="188">//        ___'. .'  /--.--\  `. .'___</text>
-        <text x="14" y="202">//     ."" '&lt;  `.___\_&lt;|&gt;_/___.' &gt;' "".</text>
-        <text x="14" y="216">//    | | :  `- \`.;`\ _ /`;.`/ - ` : | |</text>
-        <text x="14" y="230">//    \  \ `_.   \_ __\ /__ _/   .-` /  /</text>
-        <text x="14" y="244">//=====`-.____`.___ \_____/___.-`___.-'=====</text>
-        <text x="14" y="258">//                  `=---='</text>
+      <!-- ASCII Character Matrix (Buddha) centered with text-anchor="middle" -->
+      <g fill="#4338ca" class="mono" font-size="7.8" opacity="0.95" text-anchor="middle" xml:space="preserve">
+        <text x="185" y="20">//                  _oo0oo_</text>
+        <text x="185" y="34">//                 o8888888o</text>
+        <text x="185" y="48">//                 88" . "88</text>
+        <text x="185" y="62">//                 (| -_- |)</text>
+        <text x="185" y="76">//                 0\  =  /0</text>
+        <text x="185" y="90">//               ___/`---'\___</text>
+        <text x="185" y="104">//             .' \\|     |// '.</text>
+        <text x="185" y="118">//            / \\|||  :  |||// \</text>
+        <text x="185" y="132">//           / _||||| -:- |||||- \</text>
+        <text x="185" y="146">//          |   | \\\  -  /// |   |</text>
+        <text x="185" y="160">//          | \_|  ''\---/''  |_/ |</text>
+        <text x="185" y="174">//          \  .-\__  '-'  ___/-. /</text>
+        <text x="185" y="188">//        ___'. .'  /--.--\  `. .'___</text>
+        <text x="185" y="202">//     ."" '&lt;  `.___\_&lt;|&gt;_/___.' &gt;' "".</text>
+        <text x="185" y="216">//    | | :  `- \`.;`\ _ /`;.`/ - ` : | |</text>
+        <text x="185" y="230">//    \  \ `_.   \_ __\ /__ _/   .-` /  /</text>
+        <text x="185" y="244">//=====`-.____`.___ \_____/___.-`___.-'=====</text>
+        <text x="185" y="258">//                  `=---='</text>
       </g>
 
       <!-- Scanline highlight over ASCII -->
