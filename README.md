@@ -3,10 +3,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="Trần Quân (kingmaster) Profile Banner" width="100%">
+  <img src="./dark.svg" alt="kingmasterpc Profile Banner" width="100%">
 </picture>
 
-# Xin chào, mình là Trần Quân (kingmaster) 👋
+# Hi there, I'm kingmasterpc 👋
 
 [![Discord](https://img.shields.io/badge/Discord-kingmaster__pc-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/930329057390891078)
 [![guns.lol](https://img.shields.io/badge/guns.lol-kingmaster-111111?style=for-the-badge&logo=link&logoColor=white)](https://guns.lol/kingmaster)
@@ -17,27 +17,27 @@
 
 ---
 
-### 🚀 Giới thiệu (About Me)
+### 🚀 About Me
 
-- 🎓 Hiện tại mình là **học sinh** tại Việt Nam đam mê lập trình & công nghệ.
-- 💡 Đang tập trung rèn luyện thuật toán với **C++**, viết script tự động với **Python**, và xây dựng giao diện web cơ bản bằng **HTML, CSS, JavaScript**.
-- 🛠️ Thích khám phá công nghệ mới, giải quyết vấn đề bằng code và xây dựng các dự án nhỏ.
-- 🎮 Giải trí với Tetr.io & Steam khi rảnh rỗi.
+- 🎓 High school student based in **Vietnam** with a strong passion for programming and technology.
+- 💡 Actively learning and sharpening algorithmic problem-solving with **C++**, scripting with **Python**, and exploring web fundamentals with **HTML5, CSS3, and JavaScript**.
+- 🛠️ Dedicated to building small, creative projects and exploring computer science fundamentals.
+- 🎮 Casual competitive player on **Steam** & **Tetr.io**.
 
 ---
 
-### 🛠️ Kỹ năng hiện tại (Tech Stack)
+### 🛠️ Current Tech Stack
 
 ```text
-Ngôn ngữ chính  : C / C++, Python, JavaScript
-Giao diện Web   : HTML5, CSS3, Responsive Design
-Công cụ & Hệ điều hành : Git, GitHub, VS Code, Windows, Linux
-Đang tìm hiểu   : Cấu trúc dữ liệu & Giải thuật (DSA), Lập trình hướng đối tượng (OOP)
+Languages     : C / C++, Python, JavaScript
+Web Basics    : HTML5, CSS3, Responsive Design
+Tools & OS    : Git, GitHub, VS Code, Windows, Linux
+Exploring     : Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP)
 ```
 
 ---
 
-### 📊 Thống kê GitHub (GitHub Analytics)
+### 📊 GitHub Analytics
 
 <div align="center">
 
@@ -48,10 +48,10 @@ Công cụ & Hệ điều hành : Git, GitHub, VS Code, Windows, Linux
 
 ---
 
-### 🌐 Kết nối với mình (Connect)
+### 🌐 Connect With Me
 
 - **Bio page:** [guns.lol/kingmaster](https://guns.lol/kingmaster)
 - **Discord:** `kingmaster_pc` (ID: `930329057390891078`)
-- **Facebook:** [Quan Tran](https://facebook.com/profile.php?id=100076803422566)
+- **Facebook:** [Facebook Profile](https://facebook.com/profile.php?id=100076803422566)
 - **Steam:** [Steam Profile](https://steamcommunity.com/id/76561199475232651/)
 - **Tetr.io:** [imkingmaster](https://ch.tetr.io/u/imkingmaster)
