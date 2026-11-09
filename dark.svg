@@ -187,12 +187,12 @@
       <text x="120" y="72" fill="#e2e8f0">C++ Algorithms · Python Scripting · Web Basics (HTML/CSS/JS)</text>
 
       <!-- Row 4 -->
-      <text x="0" y="100" fill="#64748b" font-weight="600">&gt; DISCORD</text>
-      <text x="120" y="100" fill="#a5b4fc">kingmaster_pc (ID: 930329057390891078)</text>
+      <text x="0" y="100" fill="#64748b" font-weight="600">&gt; EMAIL</text>
+      <text x="120" y="100" fill="#38bdf8">quantrandn2009@gmail.com</text>
 
       <!-- Row 5 -->
-      <text x="0" y="128" fill="#64748b" font-weight="600">&gt; OBJECTIVE</text>
-      <text x="120" y="128" fill="#34d399">Learning every day &amp; building cool software projects</text>
+      <text x="0" y="128" fill="#64748b" font-weight="600">&gt; DISCORD</text>
+      <text x="120" y="128" fill="#a5b4fc">kingmaster_pc (ID: 930329057390891078)</text>
     </g>
 
     <!-- Tech Stack Category Box -->
@@ -232,10 +232,10 @@
       <line x1="0" y1="0" x2="605" y2="0" stroke="#1f2d48" stroke-width="1" />
       <text x="0" y="24" fill="#64748b" class="mono" font-size="11">CONNECT // </text>
       <text x="85" y="24" fill="#818cf8" class="mono" font-size="11">github.com/quantran303</text>
-      <text x="270" y="24" fill="#475569" class="mono" font-size="11">·</text>
-      <text x="285" y="24" fill="#818cf8" class="mono" font-size="11">guns.lol/kingmaster</text>
-      <text x="440" y="24" fill="#475569" class="mono" font-size="11">·</text>
-      <text x="455" y="24" fill="#818cf8" class="mono" font-size="11">ch.tetr.io/u/imkingmaster</text>
+      <text x="250" y="24" fill="#475569" class="mono" font-size="11">·</text>
+      <text x="265" y="24" fill="#38bdf8" class="mono" font-size="11">quantrandn2009@gmail.com</text>
+      <text x="455" y="24" fill="#475569" class="mono" font-size="11">·</text>
+      <text x="470" y="24" fill="#818cf8" class="mono" font-size="11">guns.lol/kingmaster</text>
     </g>
   </g>
 </svg>

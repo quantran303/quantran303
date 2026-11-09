@@ -1,13 +1,14 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg?v=3">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg?v=3">
-  <img src="./dark.svg?v=3" alt="kingmasterpc Profile Banner" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg?v=4">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg?v=4">
+  <img src="./dark.svg?v=4" alt="kingmasterpc Profile Banner" width="100%">
 </picture>
 
 # Hi there, I'm kingmasterpc 👋
 
+[![Gmail](https://img.shields.io/badge/Gmail-quantrandn2009%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quantrandn2009@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-kingmaster__pc-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/930329057390891078)
 [![guns.lol](https://img.shields.io/badge/guns.lol-kingmaster-111111?style=for-the-badge&logo=link&logoColor=white)](https://guns.lol/kingmaster)
 [![Steam](https://img.shields.io/badge/Steam-Profile-171a21?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/76561199475232651/)
@@ -50,6 +51,7 @@ Exploring     : Data Structures & Algorithms (DSA), Object-Oriented Programming 
 
 ### 🌐 Connect With Me
 
+- **Email:** [quantrandn2009@gmail.com](mailto:quantrandn2009@gmail.com)
 - **Bio page:** [guns.lol/kingmaster](https://guns.lol/kingmaster)
 - **Discord:** `kingmaster_pc` (ID: `930329057390891078`)
 - **Facebook:** [Facebook Profile](https://facebook.com/profile.php?id=100076803422566)
