@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg?v=4">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg?v=4">
-  <img src="./dark.svg?v=4" alt="kingmasterpc Profile Banner" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg?v=6">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg?v=6">
+  <img src="./dark.svg?v=6" alt="kingmasterpc Profile Banner" width="100%">
 </picture>
 
 # Hi there, I'm kingmasterpc 👋
