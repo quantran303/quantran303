@@ -94,38 +94,39 @@
 
     <!-- Header / Tab -->
     <path d="M 0 16 C 0 7.16 7.16 0 16 0 L 404 0 C 412.84 0 420 7.16 420 16 L 420 40 L 0 40 Z" fill="#0d1424" />
-    <text x="20" y="25" fill="#38bdf8" class="mono" font-size="11" font-weight="700" letter-spacing="1.5">VISUAL.IDENTITY // MATRIX</text>
+    <text x="20" y="25" fill="#38bdf8" class="mono" font-size="11" font-weight="700" letter-spacing="1.5">VISUAL.IDENTITY // BLESS_CODE</text>
     <line x1="0" y1="40" x2="420" y2="40" stroke="#1f2d48" stroke-width="1" />
 
-    <!-- ASCII Art Avatar Container -->
-    <g transform="translate(25, 60)">
-      <rect width="370" height="270" rx="12" fill="#050811" stroke="#1e293b" stroke-width="1" />
+    <!-- ASCII Art Container (Buddha Bless) -->
+    <g transform="translate(25, 56)">
+      <rect width="370" height="276" rx="12" fill="#050811" stroke="#1e293b" stroke-width="1" />
 
-      <!-- ASCII Character Matrix Block -->
-      <g fill="#818cf8" class="mono" font-size="8.5" letter-spacing="1.8" opacity="0.9">
-        <text x="20" y="26">                 ..:::::::::..                 </text>
-        <text x="20" y="40">            .:::::::::::::::::::::.            </text>
-        <text x="20" y="54">         .:::::::::::::::::::::::::::.         </text>
-        <text x="20" y="68">       .::::::####::::::::####:::::::::.       </text>
-        <text x="20" y="82">      .:::::########::::########:::::::.       </text>
-        <text x="20" y="96">     .:::::##########::##########::::::.      </text>
-        <text x="20" y="110">     .:::::######################::::::.      </text>
-        <text x="20" y="124">     .::::::####################:::::::.      </text>
-        <text x="20" y="138">      .::::::##################:::::::.       </text>
-        <text x="20" y="152">       .:::::::##############::::::::.        </text>
-        <text x="20" y="166">        .:::::::::########::::::::::.         </text>
-        <text x="20" y="180">          .:::::::::####::::::::::.           </text>
-        <text x="20" y="194">             .:::::::::::::::.                 </text>
-        <text x="20" y="208">           .:+++++++++++++++++:.               </text>
-        <text x="20" y="222">        .::+++++++++++++++++++++::.            </text>
-        <text x="20" y="236">      .::+++++##+++++++++++++##++++::.         </text>
-        <text x="20" y="250">    .:::+++++####+++++++++++####+++++:::.      </text>
+      <!-- ASCII Character Matrix (Buddha) -->
+      <g fill="#818cf8" class="mono" font-size="8" letter-spacing="0.5" opacity="0.95" xml:space="preserve">
+        <text x="14" y="20">//                  _oo0oo_</text>
+        <text x="14" y="34">//                 o8888888o</text>
+        <text x="14" y="48">//                 88" . "88</text>
+        <text x="14" y="62">//                 (| -_- |)</text>
+        <text x="14" y="76">//                 0\  =  /0</text>
+        <text x="14" y="90">//               ___/`---'\___</text>
+        <text x="14" y="104">//             .' \\|     |// '.</text>
+        <text x="14" y="118">//            / \\|||  :  |||// \</text>
+        <text x="14" y="132">//           / _||||| -:- |||||- \</text>
+        <text x="14" y="146">//          |   | \\\  -  /// |   |</text>
+        <text x="14" y="160">//          | \_|  ''\---/''  |_/ |</text>
+        <text x="14" y="174">//          \  .-\__  '-'  ___/-. /</text>
+        <text x="14" y="188">//        ___'. .'  /--.--\  `. .'___</text>
+        <text x="14" y="202">//     ."" '&lt;  `.___\_&lt;|&gt;_/___.' &gt;' "".</text>
+        <text x="14" y="216">//    | | :  `- \`.;`\ _ /`;.`/ - ` : | |</text>
+        <text x="14" y="230">//    \  \ `_.   \_ __\ /__ _/   .-` /  /</text>
+        <text x="14" y="244">//=====`-.____`.___ \_____/___.-`___.-'=====</text>
+        <text x="14" y="258">//                  `=---='</text>
       </g>
 
       <!-- Scanline highlight over ASCII -->
       <line x1="10" y1="20" x2="360" y2="20" stroke="#38bdf8" stroke-width="1.5" stroke-opacity="0.6">
-        <animate attributeName="y1" values="10;260;10" dur="4s" repeatCount="indefinite" />
-        <animate attributeName="y2" values="10;260;10" dur="4s" repeatCount="indefinite" />
+        <animate attributeName="y1" values="10;265;10" dur="4.5s" repeatCount="indefinite" />
+        <animate attributeName="y2" values="10;265;10" dur="4.5s" repeatCount="indefinite" />
       </line>
     </g>
 
